@@ -1,1 +1,1 @@
-[https://YanaKalashnikova.github.io/rsschool-2019Q1-cv/cv](https://YanaKalashnikova.github.io/rsschool-2019Q1-cv/cv)
+[https://YanaKalashnikova.github.io/rsschool-2019Q1-cv](https://YanaKalashnikova.github.io/rsschool-2019Q1-cv)
