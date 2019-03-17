@@ -1,0 +1,28 @@
+.title {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+.block { 
+    background: pink;
+    max-width: 1024px;
+   }
+
+
+
+
