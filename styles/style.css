@@ -20,6 +20,7 @@ div {
 }
 .block { 
     background: pink;
+    max-width: 1024px;
    }
 
 
